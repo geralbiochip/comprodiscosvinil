@@ -1,0 +1,10 @@
+EMAIL CORRIGIDO EM TODO O SITE
+
+Endereço correto: flashmiguel2@outlook.pt
+Foram atualizados todos os textos, links mailto, destinatários FormSubmit,
+páginas legais e instruções em todos os idiomas. A imagem de abertura também
+foi retocada para mostrar o novo endereço, em JPEG e WebP.
+A estrutura, navegação e restantes funcionalidades do ZIP recebido mantêm-se.
+Guarde uma cópia do site anterior e publique os ficheiros atualizados.
+Não foi feito envio, confirmação do destinatário ou publicação pelo assistente.
+As verificações jurídicas pendentes continuam a aplicar-se.

@@ -1,0 +1,59 @@
+PUBLICAÇÃO — LER ANTES DE SUBSTITUIR O SITE
+
+Este pacote contém textos adaptados a Paulo Morais e à declaração de compra
+exclusiva para coleção pessoal. Não certifica conformidade jurídica integral.
+Não foi publicado no domínio nem houve acesso ao alojamento.
+A consulta pública do domínio falhou; não foi possível auditar o site existente.
+
+PONTOS PENDENTES
+1. Confirmar país de residência/estabelecimento (não foi fornecido: foi respondida
+a natureza da atividade em vez do país). Não se inventou morada, NIF ou residência.
+2. Rever com profissional jurídico a suficiência da identificação e o enquadramento
+real de atividade particular; se a atividade mudar, rever obrigações comerciais.
+3. Confirmar entidade contratada em Dominios.pt, localização, subcontratantes,
+acordo de tratamento, segurança, retenção de logs e cópias de segurança.
+4. Confirmar condições aplicáveis à conta Outlook e WhatsApp e transferências
+internacionais; completar a política com garantias concretas antes de publicar.
+5. Adotar e executar os critérios de conservação propostos. Eliminar fotografias
+quando a avaliação/negociação encerrar e já não forem necessárias; conservar
+apenas documentos legalmente necessários e elementos necessários a litígios.
+6. Confirmar direitos de uso das imagens e autenticidade dos contactos.
+
+MUDANÇA IMPORTANTE NO FORMULÁRIO
+O FormSubmit está DESATIVADO por defeito. WhatsApp e mailto estão disponíveis.
+O modo mailto abre o programa de e-mail e as fotos são anexadas manualmente.
+O formulário mantém os campos, preview e código do envio externo preparados,
+mas a seleção de imagens só fica ativa após ativação do serviço.
+A política pública consultada do FormSubmit não esclarece suficientemente acordo
+art. 28 e transferências. Isto NÃO é uma declaração de ilegalidade do serviço;
+é uma limitação da validação disponível. Não resolve ativar consentimento genérico.
+Pedir esclarecimentos ao fornecedor em support@formsubmit.co.
+Só após validação contratual, atualização da política e testes, alterar
+emailFormEnabled para true em config.js. Fazer primeira submissão, confirmar
+o destinatário no e-mail de ativação, e testar NOVAMENTE com todos os anexos.
+A documentação permite vários campos de upload e 10 MB no total; verificar
+a entrega de todas as imagens no teste real do campo múltiplo antes de abrir.
+A documentação indica arquivo das submissões por 30 dias (não dos ficheiros).
+Atualizar a política com essa conservação se o serviço vier a ser ativado.
+
+INSTALAÇÃO
+Guardar cópia do site atual. Carregar o conteúdo deste ZIP para a raiz do domínio,
+preservando a pasta images. Ativar HTTPS e testar as páginas e ligações.
+Não introduzir credenciais de correio no JavaScript.
+Não acrescentar analytics, anúncios, embeds ou plugins sem rever cookies.
+Não foi colocado um banner de consentimento sem tecnologias não essenciais.
+O alojamento deve ser verificado após publicação; código sem cookies próprios
+não garante que outras camadas da infraestrutura não os introduzam.
+
+SEGURANÇA E ORGANIZAÇÃO
+Ativar autenticação multifator no e-mail, WhatsApp e alojamento quando disponível.
+Limitar acesso, manter sistemas atualizados e rever pedidos de direitos em tempo.
+Não afirmar país de armazenamento nem ausência de transferências sem verificar.
+Textos de privacidade contêm declaração explícita das verificações pendentes:
+revê-los e completar antes da publicação como informação definitiva.
+
+FONTES DE TRABALHO (consultadas 19-11-2026)
+RGPD: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32016R0679
+FormSubmit: https://formsubmit.co/documentation
+Política: https://formsubmit.co/privacy.pdf
+CNPD: https://www.cnpd.pt/
